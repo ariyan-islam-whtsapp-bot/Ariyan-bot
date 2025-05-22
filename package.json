@@ -1,7 +1,7 @@
 {
-  "name": "NAYAN-WHATSAPP-BOT",
+  "name": "ARIYAN-WHATSAPP-BOT",
   "version": "1.0.4",
-  "description": "WhatsApp Bot Created by Mohammad Nayan",
+  "description": "WhatsApp Bot Created by Ariyan",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -16,14 +16,14 @@
     "whatsapp-bot-multi-device",
     "best-whatsapp-bot",
     "whatsappbots",
-    "nayanbot",
-    "nayan-bot",
-    "nayan-bot-github",
-    "nayan-bot-md",
-    "nayanbot-whatsapp-bot",
+    "ariyanbot",
+    "ariyan-bot",
+    "ariyan-bot-github",
+    "ariyan-bot-md",
+    "ariyanbot-whatsapp-bot",
     "github-whatsapp-bot"
   ],
-  "author": "Mohammad Nayan",
+  "author": "Ariyan",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
