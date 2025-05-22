@@ -1,0 +1,25 @@
+{
+  "packname": "My Sticker Pack",
+  "author": "My Bot",
+  "botName": "♡ 𝙰𝚛𝚒𝚢𝚊𝚗 𝙱𝚘𝚝 ♡",
+  "botOwner": "♡ 𝙰𝚛𝚒𝚢𝚊𝚗 ♡",
+  "ownerNumber": "8801814289472",
+  "PREFIX": ".",
+  "admin": [
+    "8801814289472",
+    ""
+  ],
+  "helpPic": "https://i.postimg.cc/zBxmd1M7/LOGO-3-A7-FAAFC.png",
+  "welPic": "https://i.ibb.co.com/TqN6Lwjc/LOGO-3-A7-FAAFC.png",
+  "PORT": "3000",
+  "delay": 100,
+  "msg": {
+    "modAdmin": false,
+    "ban": false
+  },
+  "imgurKey": "1e87dfc28df0bac",
+  "giphyApiKey": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq",
+  "commandMode": "public",
+  "description": "This is a bot for managing group commands and automating tasks.",
+  "version": "1.0.4"
+}
