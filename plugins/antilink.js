@@ -9,7 +9,7 @@ const getAntilinkSetting = global.getAntilinkSetting;
       permission: 2,
       prefix: true,
       categorie: 'Moderation',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by ariyan',
       usages: [
         '.antilink off - Disable antilink protection.',
         '.antilink whatsapp - Block WhatsApp group links.',
