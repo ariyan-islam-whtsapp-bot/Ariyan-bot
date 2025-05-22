@@ -1,19 +1,19 @@
-# 🤖 Nayan Bot
+# 🤖 Ariyan Bot
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Mohammad Nayan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Ariyan" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
-    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Nayan Bot" height="300"> 
+    <img src="https://i.postimg.cc/nc9T0Mv8/LOGO-4-6-DECBCA.png" alt="Ariyan Bot" height="300"> 
   </a> 
 </div>
 <br>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NAYAN-WHATSAPP-BOT}/count.svg" alt="Nayan :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ARIYAN-WHATSAPP-BOT}/count.svg" alt="Ariyan :: Visitor's Count" /></p>
 
 
 ---
