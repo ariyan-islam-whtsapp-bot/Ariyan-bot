@@ -1,4 +1,4 @@
-const { alldown } = require("nayan-videos-downloaders");
+const { alldown } = require("ariyan-videos-downloaders");
 const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
