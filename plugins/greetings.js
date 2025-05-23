@@ -7,7 +7,7 @@
       description: 'Automatically replies to specific messages from users.',
       categories: 'greetings',
       usages: ['ck', 'hello', 'hlw'],
-      credit: 'Developed by Mohammad Nayan'
+      credit: 'Developed by Ariyan'
     },
   event: async ({ event, api, body}) => {
     const { threadId} = event;
