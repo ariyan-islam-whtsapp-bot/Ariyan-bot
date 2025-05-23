@@ -5,7 +5,7 @@ module.exports = {
       permission: 2,
       prefix: 'both',
       categorie: 'Utilities',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       usages: [
         `${global.config.PREFIX}clear - Clear the bot's messages in the group.`,
         `${global.config.PREFIX}clean - Alias for clearing bot's messages.`,
