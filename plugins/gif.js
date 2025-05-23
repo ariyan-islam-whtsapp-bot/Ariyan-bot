@@ -7,7 +7,7 @@ const axios = require('axios');
       permission: 0, 
       prefix: 'both',
       categorie: 'Media',
-      credit: 'Developed by Mohammad Nayan', 
+      credit: 'Developed by Ariyan', 
       description: 'Searches for a GIF using Giphy.',
       usages: [
         `${global.config.PREFIX}gif <search_term> - Search for a GIF on Giphy.`,
