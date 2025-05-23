@@ -9,7 +9,7 @@ module.exports = {
         description: "Execute shell commands and return the output.",
         usages: [".shell <command>"],
         category: "System",
-        credit: "Developed by Mohammad Nayan"
+        credit: "Developed by Ariyan"
     },
 
     start: async ({ api, event, args }) => {
