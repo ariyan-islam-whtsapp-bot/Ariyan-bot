@@ -7,7 +7,7 @@ module.exports = {
         permission: 2,
         prefix: "both",
         category: "Group Management",
-        credit: "Developed by Mohammad Nayan",
+        credit: "Developed by Ariyan",
     },
     start: async ({ event, api, args }) => {
         const { threadId, isGroup } = event;
