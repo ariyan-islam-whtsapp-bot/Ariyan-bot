@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const modAdminFile = path.join(__dirname, "../Nayan/data", "modAdmin.json");
+const modAdminFile = path.join(__dirname, "../Ariyan/data", "modAdmin.json");
 
 
 if (!fs.existsSync(path.dirname(modAdminFile))) {
@@ -18,7 +18,7 @@ if (!fs.existsSync(modAdminFile)) {
       permission: 2,
       prefix: true,
       categorie: "Administration",
-      credit: "Developed by Mohammad Nayan",
+      credit: "Developed by Ariyan",
       description: "Toggle modAdmin functionality on or off for this thread.",
       usages: [
         `${global.config.PREFIX}modadmin - Check the current state of modAdmin.`,
