@@ -11,7 +11,7 @@ module.exports = {
     description: 'Send the profile picture of the mentioned user or yourself.',
     categories: 'media',
     usages: ['.profilepic', '.profilepic @mention'],
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Ariyan,
   },
 
   start: async ({ event, api }) => {
