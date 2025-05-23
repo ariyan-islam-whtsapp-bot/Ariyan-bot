@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 const path = require('path');
-const nayan = require('nayan-videos-downloaders');
+const nayan = require('ariyan-videos-downloaders');
 const Youtube = require('youtube-search-api');
 
 async function downloadMusicFromYoutube(link, filePath) {
@@ -9,7 +9,7 @@ async function downloadMusicFromYoutube(link, filePath) {
   const timestart = Date.now();
 
   try {
-    const data = await nayan.ytdown(link);
+    const data = await ariyan.ytdown(link);
     const audioUrl = data.data.video;
 
     return new Promise((resolve, reject) => {
@@ -46,7 +46,7 @@ async function downloadMusicFromYoutube(link, filePath) {
       description: 'Search and download video from YouTube.',
       usage: ['video <keyword> - Search and download videos from YouTube.'],
       categories: 'video',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
     },
 
     start: async function ({ api, event, args}) {
