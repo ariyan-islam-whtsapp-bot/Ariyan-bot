@@ -9,7 +9,7 @@ module.exports = {
     description: 'Interact with the Gemini API using a prompt.',
     categories: 'AI',
     usages: [`${global.config.PREFIX}gemini <your prompt>`],
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Ariyan',
   },
 
   start: async ({ event, api, args }) => {
