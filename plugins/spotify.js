@@ -14,7 +14,7 @@ module.exports = {
       `${global.config.PREFIX}sp <song name> - Alias for the same functionality.`,
     ],
     categories: "Media",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
   },
 
   start: async function ({ api, event, args }) {
