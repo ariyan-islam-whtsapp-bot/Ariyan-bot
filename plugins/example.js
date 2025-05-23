@@ -7,7 +7,7 @@ module.exports = {
         description: 'Demonstrates how handleReply and handleReaction work.',
         categories: 'Utility',
         usages: ['.example', '.ex'],
-        credit: 'Developed by Mohammad Nayan'
+        credit: 'Developed by Ariyan'
     },
 
     start: async function ({ api, event }) {
