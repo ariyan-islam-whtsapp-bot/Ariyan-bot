@@ -7,7 +7,7 @@ const axios = require('axios');
       permission: 0,
       prefix: true,
       categorie: 'Fun',
-      credit: 'Developed by Mohammad Nayan', 
+      credit: 'Developed by Ariyan', 
       description: 'Sends a random fact.',
       usages: [
         `${global.config.PREFIX}fact - Sends a random fact.`,
