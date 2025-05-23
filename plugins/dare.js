@@ -5,7 +5,7 @@
       permission: 0,
       prefix: true,
       categorie: 'Games',  
-      credit: 'Developed by Mohammad Nayan',  
+      credit: 'Developed by Ariyan',  
       usages: [
         `${global.config.PREFIX}dare - Challenge the user with a random dare.`,
         `${global.config.PREFIX}dareme - Alias for the dare command.`,
