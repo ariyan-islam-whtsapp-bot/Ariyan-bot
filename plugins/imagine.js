@@ -11,7 +11,7 @@ module.exports = {
     description: 'Generate an image from a prompt using an external API.',
     categories: 'media',
     usages: ['.imagine <prompt>'],
-    credit: 'Developed by Mohammad Nayan'
+    credit: 'Developed by Ariyan'
   },
 
   start: async ({ event, api, args }) => {
