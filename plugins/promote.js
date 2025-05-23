@@ -5,7 +5,7 @@ module.exports = {
       permission: 3,
       prefix: true,
       categorie: 'Moderation',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       description: 'Promotes a user to admin in the group.',
       usages: [
         `${global.config.PREFIX}promote @username - Promote the mentioned user to admin.`,
