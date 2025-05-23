@@ -9,7 +9,7 @@
         `${global.config.PREFIX}unmute - Unmutes the group, allowing members to send messages.`,
       ],
       categories: 'Group Management',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
     },
 
   start: async ({ api, event }) => {
