@@ -10,7 +10,7 @@
         `${global.config.PREFIX}up - Alias for the same functionality.`,
       ],
       categories: "Bot Management",
-      credit: "Developed by Mohammad Nayan",
+      credit: "Developed by Ariyan",
     },
 
   start: async ({ api, event }) => {
