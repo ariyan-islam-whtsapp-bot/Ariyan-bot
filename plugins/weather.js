@@ -12,7 +12,7 @@ const axios = require('axios');
         `${global.config.PREFIX}wthr <city> - Alias for the same functionality.`,
       ],
       categories: 'Information',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
     },
 
   start: async ({ api, event, args }) => {
