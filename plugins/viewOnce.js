@@ -9,7 +9,7 @@ module.exports = {
     permission: 0,
     prefix: true,
     categorie: "Media",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
     usages: ["viewOnce <media URL> - Sends an image or video as view-once"],
   },
 
