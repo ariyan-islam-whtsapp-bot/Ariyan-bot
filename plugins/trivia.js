@@ -14,7 +14,7 @@ let triviaGames = {};
         `${global.config.PREFIX}trv - Alias for the same functionality.`,
       ],
       categories: 'Games',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
     },
 
   
