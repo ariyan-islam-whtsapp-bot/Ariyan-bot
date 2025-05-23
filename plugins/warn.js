@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const isAdmin = global.isAdmin
 
-const warningsFilePath = path.join(__dirname, '../Nayan/data/warnings.json');
+const warningsFilePath = path.join(__dirname, '../Ariyan/data/warnings.json');
 
 function loadWarnings() {
     if (!fs.existsSync(warningsFilePath)) {
@@ -28,7 +28,7 @@ function saveWarnings(warnings) {
         `${global.config.PREFIX}warn @user list - Shows the warning count for the mentioned user.`,
       ],
       categories: 'Moderation',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
     },
 
   start: async ({ api, event, args }) => {
