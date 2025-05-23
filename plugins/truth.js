@@ -18,7 +18,7 @@ module.exports = {
       `${global.config.PREFIX}t - Alias for the same functionality.`,
     ],
     categories: 'Games',
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Ariyan',
   },
 
   start: async ({ api, event }) => {
