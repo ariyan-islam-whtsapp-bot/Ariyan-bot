@@ -67,7 +67,7 @@ module.exports = {
       `${global.config.PREFIX}top - Alias for the same functionality.`,
     ],
     categories: "Utility",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
   },
   event: async ({ event, api }) => {
     const { threadId, senderId, isGroup } = event;
