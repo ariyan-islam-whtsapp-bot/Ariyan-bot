@@ -5,7 +5,7 @@
       permission: 0, 
       prefix: true,
       categorie: 'Fun',  
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       description: 'Provides a random response to yes or no questions.',
       usages: [
         `${global.config.PREFIX}eightball <question> - Ask a yes/no question and get a random response.`,
