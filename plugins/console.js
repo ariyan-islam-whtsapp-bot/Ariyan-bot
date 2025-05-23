@@ -7,7 +7,7 @@ const chalk = require('chalk');
       permission: 0,
       prefix: true,
       categorie: 'Utility',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       usages: [
         `${global.config.PREFIX}showDetails - Displays message details for the current event.`,
         `${global.config.PREFIX}details - Alias for showing message details.`,
