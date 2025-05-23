@@ -5,7 +5,7 @@ module.exports = {
     version: "0.0.3",
     permission: 0,
     prefix: true,
-    credits: "Nayan",
+    credits: "Ariyan",
     description: "Random video",
     category: "video",
     usages: [".video2"],
