@@ -41,7 +41,7 @@ module.exports = {
             `${global.config.PREFIX}tts <text> - Converts the given text to speech and sends an audio message.`,
         ],
         categories: 'Media',
-        credit: 'Developed by Mohammad Nayan',
+        credit: 'Developed by Ariyan',
     },
     start
 };
