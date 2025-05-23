@@ -6,7 +6,7 @@
       prefix: true,
       description: 'Sends a random insult to the mentioned user.',
       category: 'Fun',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       usages: [`${global.config.PREFIX}insult @user`], 
     },
 
