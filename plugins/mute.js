@@ -5,7 +5,7 @@
       permission: 2,
       prefix: 'both',
       categorie: 'Group Management',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       description: 'Mute the group for a specified duration (in minutes).',
       usages: [
         `${global.config.PREFIX}mute <duration_in_minutes> - Mutes the group for the specified duration.`,
