@@ -7,7 +7,7 @@ module.exports = {
     description: 'Mentions all members of a group.',
     categories: 'group',
     usages: ['.tagall'],
-    credit: 'Developed by Mohammad Nayan'
+    credit: 'Developed by Ariyan'
   },
 
   start: async ({ event, api, args }) => {
