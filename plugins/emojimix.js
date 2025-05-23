@@ -10,7 +10,7 @@ module.exports = {
     permission: 0,
     prefix: true,
     categories: "image",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
     description: "Mix two emojis into one image",
     usages: [
       `${global.config.PREFIX}emojimix emoji1 | emoji2`,
