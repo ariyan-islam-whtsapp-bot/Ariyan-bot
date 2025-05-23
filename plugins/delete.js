@@ -5,7 +5,7 @@
       permission: 3,
       prefix: 'both',
       categorie: 'Moderation',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       usages: [
         `${global.config.PREFIX}delete - Deletes a message that the user replies to.`,
         `${global.config.PREFIX}del - Alias for the delete command.`,
