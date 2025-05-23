@@ -7,7 +7,7 @@ const axios = require('axios');
       permission: 1,
       prefix: true,
       categorie: 'Fun',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       description: 'Fetches a random meme from Imgflip.',
       usages: [
         `${global.config.PREFIX}meme - Fetch a random meme.`,
