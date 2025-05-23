@@ -9,7 +9,7 @@ module.exports = {
     description: 'Randomly adds a name and URL to the mix.',
     usages: [`${global.config.PREFIX}rndmadd <name>`],
     categories: 'Utilities',
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Ariyan',
   },
 
   start: async ({ event, api, args }) => {
