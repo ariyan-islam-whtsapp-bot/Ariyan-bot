@@ -7,7 +7,7 @@ module.exports = {
     description: 'Create a new WhatsApp group with specified participants.',
     categories: 'group',
     usages: ['.creategroup <group name> @mention1 @mention2 ...'],
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Ariyan,
   },
 
   start: async ({ event, api, args }) => {
