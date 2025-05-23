@@ -9,7 +9,7 @@ module.exports = {
     permission: 0,
     prefix: true,
     categorie: "video",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
     description: "Fetches a random video or a video based on a query.",
     usages: [
       `${global.config.PREFIX}random - Fetches a random video.`,
