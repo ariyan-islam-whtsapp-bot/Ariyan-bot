@@ -11,7 +11,7 @@
         'ping',  
         'p'
       ],
-      credit: 'Developed by Mohammad Nayan'
+      credit: 'Developed by Ariyan'
     },
   start: async ({ event, api }) => {
 
