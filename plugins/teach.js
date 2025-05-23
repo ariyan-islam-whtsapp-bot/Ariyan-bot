@@ -9,7 +9,7 @@ module.exports = {
     description: 'Teach the bot to respond to specific messages.',
     categories: 'utility',
     usages: ['teach [ask] = [answer]'],
-    credit: 'Developed by Mohammad Nayan'
+    credit: 'Developed by Ariyan'
   },
 
   start: async ({ event, api, args }) => {
