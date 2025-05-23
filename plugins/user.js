@@ -12,7 +12,7 @@ module.exports = {
     permission: 2,
     prefix: true,
     category: "Moderation",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
   },
 
   start: async ({ event, api, args }) => {
