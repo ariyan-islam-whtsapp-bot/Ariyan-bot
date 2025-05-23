@@ -9,7 +9,7 @@ module.exports = {
       prefix: "both",
       categorie: "AI Chat",
       cooldowns: 5,
-      credit: "Developed by Mohammad Nayan",
+      credit: "Developed by Ariyan",
       usages: [
         `${global.config.PREFIX}bot <message> - Start a chat with the bot.`,
         `${global.config.PREFIX}bot - Receive a random greeting from the bot.`,
