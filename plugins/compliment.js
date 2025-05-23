@@ -5,7 +5,7 @@ module.exports = {
       permission: 0,
       prefix: true,
       categorie: 'Fun',
-      credit: 'Developed by Mohammad Nayan',
+      credit: 'Developed by Ariyan',
       usages: [
         `${global.config.PREFIX}compliment @username - Compliment a mentioned user.`,
         `${global.config.PREFIX}complimentme @username - Alias for complimenting a user.`,
