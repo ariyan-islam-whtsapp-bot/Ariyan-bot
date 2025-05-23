@@ -12,7 +12,7 @@ module.exports = {
     permission: 0,
     prefix: true,
     category: "Media",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Ariyan",
   },
   start: async ({ event, api, args }) => {
     const { message, getLink } = event;
