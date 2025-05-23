@@ -36,7 +36,7 @@ module.exports = {
       'Reply to a message with translate <language code> to translate it.',
     ],
     categories: 'Utilities',
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Ariyan',
   },
 
   start: async ({ event, api, args }) => {
